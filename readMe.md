@@ -1,0 +1,1 @@
+This program finds the largest and smallest numbers from N counting numbers entered from the keyboard with Java and writes these numbers to the screen.
